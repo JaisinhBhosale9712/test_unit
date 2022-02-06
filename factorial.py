@@ -1,4 +1,5 @@
 import sys
+SECRET_KEY = "sfdwa87wq37"
 def fact(n):
     if n==0:
       return 1
