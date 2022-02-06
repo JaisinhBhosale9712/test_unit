@@ -8,7 +8,7 @@
 	<packages>
 		<package branch-rate="0" complexity="0" line-rate="0.8273" name=".">
 			<classes>
-				<class branch-rate="0" complexity="0" filename="factorial.py" line-rate="0.5714" name="C:/Users/Jay Bhosale/Downloads/test_unit-main/test_unit-main/factorial.py">
+				<class branch-rate="0" complexity="0" filename="factorial.py" line-rate="0.7714" name="C:/Users/Jay Bhosale/Downloads/test_unit-main/test_unit-main/factorial.py">
 					<methods/>
 					<lines>
 						<line hits="1" number="1"/>
@@ -16,9 +16,11 @@
 						<line hits="1" number="3"/>
 						<line hits="1" number="4"/>
 						<line hits="1" number="5"/>
+						<line hits="1" number="6"/>
 						<line hits="1" number="7"/>
 						<line hits="0" number="8"/>
 						<line hits="0" number="9"/>
+						<line hits="1" number="10"/>
 						<line hits="1" number="11"/>
 						<line hits="0" number="12"/>
 						<line hits="0" number="13"/>
@@ -32,10 +34,12 @@
 					<lines>
 						<line hits="1" number="1"/>
 						<line hits="1" number="2"/>
+						<line hits="1" number="3"/>
 						<line hits="1" number="4"/>
 						<line hits="1" number="5"/>
 						<line hits="1" number="6"/>
 						<line hits="1" number="7"/>
+						<line hits="1" number="8"/>
 						<line hits="1" number="9"/>
 						<line hits="1" number="10"/>
 					</lines>
