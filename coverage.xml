@@ -6,7 +6,7 @@
 		<source></source>
 	</sources>
 	<packages>
-		<package branch-rate="0" complexity="0" line-rate="0.7273" name=".">
+		<package branch-rate="0" complexity="0" line-rate="0.8273" name=".">
 			<classes>
 				<class branch-rate="0" complexity="0" filename="factorial.py" line-rate="0.5714" name="C:/Users/Jay Bhosale/Downloads/test_unit-main/test_unit-main/factorial.py">
 					<methods/>
