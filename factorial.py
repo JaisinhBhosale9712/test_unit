@@ -9,6 +9,10 @@ def div(n):
     res=10/n
     return res
   
+def div(n):
+    res=10/n
+    return res
+    
 def main(n):
     res=fact(n)
     print(res)
